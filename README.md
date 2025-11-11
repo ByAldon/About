@@ -15,7 +15,7 @@ I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly u
 
 ### Summary of the Name Aldon and Its Symbolism
 
-<img src="https://github.com/user-attachments/assets/5f99a7c7-8b42-4c93-8145-7324d7ef0a6f" alt="Owl and Book" style="width: 350px; height: auto;"/>
+<img src="https://raw.githubusercontent.com/ByAldon/About/refs/heads/insite/assets/images/176054926.jpg" alt="Owl and Book" style="width: 350px; height: auto;"/>
 
 
 
