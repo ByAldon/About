@@ -15,9 +15,7 @@ I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly u
 
 ### Summary of the Name Aldon and Its Symbolism
 
-<img src="https://raw.githubusercontent.com/ByAldon/About/refs/heads/insite/assets/176054926.jpg" alt="Owl and Book" style="width: 350px; height: auto;"/>
-
-
+<img src="https://github.com/user-attachments/assets/11043a47-3508-491b-8537-fc7a26d66ffd" alt="Owl and Book" style="width: 350px; height: auto;"/>
 
 The name **Aldon** is a creative blend that resonates with themes of wisdom and age. Derived from the elements "old" and "man," it embodies the essence of an "old wise man," reflecting a deep respect for knowledge and experience.
 
