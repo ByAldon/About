@@ -3,6 +3,8 @@
 
 Hello! My name is **John**. I am a developer primarily focused on **[WordPress](https://en.wikipedia.org/wiki/WordPress "WordPress")**. This is where my main expertise lies. I work on creating plugins and themes, and I have a vision of eventually developing my own WordPress system that will be fully transparent regarding privacy.
 
+At the moment i am also working on Bludit Plugins: https://github.com/ByAldon/bludit-plugins
+
 In my free time, I sometimes engage in other projects, such as creating apps for **[Second Life](https://en.wikipedia.org/wiki/Second_Life "Second Life")**. I also develop web applications and software for **[Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Windows")** and **[Android](https://tinu.be/EkuommdT9)**.
 
 After a long journey of self-discovery regarding what I want to do with my life, I have realized that design and programming are my true passions, and I often dedicate a lot of time to them.
@@ -10,6 +12,8 @@ After a long journey of self-discovery regarding what I want to do with my life,
 I want to focus on the transparency of privacy. I aim to be honest and open about this. I will never collect data without consent. Your data is your data, and you are the one who decides what happens to it.
 
 I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly utilize it for hosting my programming projects.
+
+If you are looking to get in contact with me just sent me a email at: byaldon@proton.me
 
 ------------
 
