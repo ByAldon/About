@@ -13,6 +13,7 @@ I want to focus on the transparency of privacy. I aim to be honest and open abou
 
 I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly utilize it for hosting my programming projects.
 
+### Contact info
 If you are looking to get in contact with me just sent me a email at: byaldon@proton.me
 
 ------------
