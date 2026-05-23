@@ -1,6 +1,6 @@
 # Hi, my name is John!
 
-Hello! My name is John, also known online as **ByAldon**.
+Hello! My name is John, also known online as **(By)Aldon**.
 
 I am a creative developer and open-source maker who enjoys building practical, privacy-conscious, and transparent software. My work is not limited to one platform or ecosystem. I create projects across different areas, including web development, WordPress, Bludit, Windows software, Android-related tools, and Second Life scripting.
 
