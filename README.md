@@ -1,20 +1,43 @@
-# Hi my name is John!
+# Hi, my name is John!
 
+Hello! My name is John, also known online as **ByAldon**.
 
-Hello! My name is **John**. I am a developer primarily focused on **[WordPress](https://en.wikipedia.org/wiki/WordPress "WordPress")**. This is where my main expertise lies. I work on creating plugins and themes, and I have a vision of eventually developing my own WordPress system that will be fully transparent regarding privacy.
+I am a creative developer and open-source maker who enjoys building practical, privacy-conscious, and transparent software. My work is not limited to one platform or ecosystem. I create projects across different areas, including web development, WordPress, Bludit, Windows software, Android-related tools, and Second Life scripting.
 
-At the moment i am also working on Bludit Plugins: https://github.com/ByAldon/bludit-plugins
+I use this GitHub mainly as a portfolio and as a home for my programming projects. Most of what I build is intended to be open source, free to use, and easy to understand.
 
-In my free time, I sometimes engage in other projects, such as creating apps for **[Second Life](https://en.wikipedia.org/wiki/Second_Life "Second Life")**. I also develop web applications and software for **[Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Windows")** and **[Android](https://tinu.be/EkuommdT9)**.
+## What I work on
 
-After a long journey of self-discovery regarding what I want to do with my life, I have realized that design and programming are my true passions, and I often dedicate a lot of time to them.
+I work on a mix of projects, including:
 
-I want to focus on the transparency of privacy. I aim to be honest and open about this. I will never collect data without consent. Your data is your data, and you are the one who decides what happens to it.
+- WordPress plugins and themes
+- Bludit plugins
+- Web applications
+- Windows software
+- Android-related projects
+- Second Life / LSL scripts and tools
+- Privacy-focused and transparency-focused experiments
+- Creative tools under the ByAldon name
 
-I intend to use this GitHub primarily as a sort of **portfolio**, but I mainly utilize it for hosting my programming projects.
+## My values
 
-### Contact info
-If you are looking to get in contact with me just sent me a email at: byaldon@proton.me
+Privacy and transparency are very important to me.
+
+I believe users should know what software does, what data is used, and why. I do not want to collect data without clear consent. Your data is your data, and you should decide what happens to it.
+
+My goal is to build tools that are honest, understandable, and respectful toward the people using them.
+
+## About ByAldon
+
+The name **Aldon** is connected to the idea of wisdom, learning, and experience. It came from research into my own real name and eventually became the name I use for my projects.
+
+The owl and book symbolism represents knowledge, curiosity, observation, and the ongoing process of learning. It is not meant to suggest that I know everything. For me, it represents the journey of learning, experimenting, improving, and creating.
+
+## Contact
+
+If you want to contact me, you can send an email to:
+
+**byaldon@proton.me**
 
 ------------
 
